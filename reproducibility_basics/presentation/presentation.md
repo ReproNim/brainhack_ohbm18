@@ -272,6 +272,10 @@ class: center, middle, inverse
 
 ---
 
+layout: false
+
+- clone or download the repository `https://github.com/ReproNim/brainhack_ohbm18`
+---
 name: inverse
 layout: true
 class: center, middle, inverse
