@@ -48,7 +48,7 @@ layout: false
 - existing tools can help you:
 &nbsp;
 
-  - container technologies: controling your environment
+  - container technologies: controlling your environment
 
   - git/github (or bitbucket, gitlab...): controlling your code
 
@@ -392,7 +392,7 @@ class: center, middle, inverse
 ---
 layout: false
 
-### Building a Docker image with Datalad and jupyetr notebook
+### Building a Docker image with Datalad and jupyter notebook
 
 - creating a Dockerfile
 ```bash
